@@ -10,10 +10,9 @@ def printaLL(self):
 # obj = person("A", 2, "B")
 # obj.printaLL()
 class Employee(person):
-    def _ _init_ _(self, name, age, gender, salary):
-      person._ _init_ _(self, name, age, gender)
+    def_ _init_ _(self, name, age, gender, salary):
+      person._ _init_ _(self, name, age, gender):
 # correctced caLL to person's _ _ inite _ _ 
-
 
 
       
